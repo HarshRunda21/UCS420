@@ -1,0 +1,14 @@
+Ticket_ID,Ticket_Text
+T01,The password failed to open. It works on another computer.
+T02,I was locked out of the password when I use mobile hotspot. It works on another computer.
+T03,The password is showing an error. Please resolve it.
+T04,VPN is not working when I use mobile hotspot. It works on another computer.
+T05,I was locked out of the laptop during the lab. It worked yesterday.
+T06,Wi-Fi crashes while opening during the lab. The same problem occurs again.
+T07,I can't login and I didn't change anything.
+T08,I tried again... still no response!!!
+T09,The student portal is running slowly. This is urgent.
+T10,Call me on +91 98765 43210 or 0175-239-3201.
+T11,I cannot access the VPN while uploading the file. Is there another solution?
+T12,Only 2 of 30 PCs boot after 3.5 hours.
+T13,The MATLAB keeps disconnecting. It works on another computer.
